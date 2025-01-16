@@ -33,7 +33,7 @@ module.exports = async kernel =>
 				method: 'shell.run',
 				params:
 				{
-					message: 'https://github.com/funnn123/facefusion-unlocked --branch master --single-branch'
+					message: 'https://github.com/funnn123/facefusion-unlocked'
 				}
 			},
 			{
